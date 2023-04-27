@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user/blog.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user/cart.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user/homePage.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user/productDetails.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user/regist.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user/shop.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user/userOrder.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user/userPage.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user" />
+      </map>
+    </option>
+  </component>
+</project>
